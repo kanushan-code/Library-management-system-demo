@@ -1,1 +1,1 @@
-Source code in zip file.
+Simple library management system.
